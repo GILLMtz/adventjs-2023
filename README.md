@@ -8,6 +8,6 @@ Solution proposal to the challenges posed in adventjs-2022
 
 | Day  | Name                                                              | Rules                                               | Solution                           |
 | ---- | ----------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------- |
-| 1    | Challenge #1: First gift repeated!                                | [rules](https://adventjs.dev/challenges/2023/1)  | [code](./src/day-01/index.js)      | 
-| 2    | ######################################                            | [rules](https://adventjs.dev/en/challenges/2023/2)  | [code](./src/day-02/index.js)      |
+| 1    | 🎁 First gift repeated!                                | [rules](https://adventjs.dev/challenges/2023/1)  | [code](./src/day-01/index.js)      | 
+| 2    |  🏭 We start the factory                                          | [rules](https://adventjs.dev/en/challenges/2023/2)  | [code](./src/day-02/index.js)      |
 
