@@ -11,4 +11,5 @@ Solution proposal to the challenges posed in adventjs-2022
 | 1    | 🎁 First gift repeated!                                | [rules](https://adventjs.dev/challenges/2023/1)  | [code](./src/day-01/index.js)      | 
 | 2    |  🏭 We start the factory                                          | [rules](https://adventjs.dev/en/challenges/2023/2)  | [code](./src/day-02/index.js)      |
 | 3    |  😏 El elfo travieso                                          | [rules](https://adventjs.dev/en/challenges/2023/3)  | [code](./src/day-03/index.js)      |
+| 4    |  😵‍💫 Dale la vuelta a los paréntesis                                   | [rules](https://adventjs.dev/en/challenges/2023/4)  | [code](./src/day-04/index.js)      |
 
